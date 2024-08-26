@@ -1,0 +1,18 @@
+-> Static site generation SSG
+20000 <-
+  Databse <- Server <- Template x HTML
+10000 <- 10000 x.html
+
+-> Server side rendering
+Server <- req <- database <- template <- html -> NEXTJS
+FLASK -> Jinja
+ASP.NET
+SPRING BOOT
+RUBY ON RAILS
+DJANGO
+EXPRESS
+LARAVEL
+
+-> Client side rendering
+CSR -> Web App
+SEO
